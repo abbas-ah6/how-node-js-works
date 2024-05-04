@@ -1,4 +1,4 @@
-![image](https://github.com/abbas-ah6/how-node-js-works/assets/162794608/ec158dd5-2006-4bae-bf80-5567fb9b4327)![image](https://github.com/abbas-ah6/how-node-js-works/assets/162794608/ab0dce0e-8714-43f3-8c16-e1971fb8f803)# Node.js Behind the Scenes
+# Node.js Behind the Scenes
 
 This project provides an exploration into the inner workings of Node.js, showcasing various features and functionalities through code examples.
 
